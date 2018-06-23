@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alert Sample</string>
+    <string name="tap_text">Tap to test the alert</string>
+</resources>
